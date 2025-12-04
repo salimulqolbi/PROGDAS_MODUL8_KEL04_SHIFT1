@@ -1,3 +1,9 @@
+# KELOMPOK 4 SHIFT 1
+# Hesya Albi Prasya     (21120125120013)
+# Raudatul Khairanis    (21120125120014)
+# Ibrahim Abyan Movic   (21120125120015)
+# Muhamad Salimul Qolbi (21120125120016)
+
 import customtkinter as ctk
 from film import Film
 from cinema import Cinema
